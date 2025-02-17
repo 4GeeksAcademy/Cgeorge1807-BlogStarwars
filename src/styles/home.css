@@ -1,0 +1,10 @@
+.scroll-character{
+    display: flex;
+    overflow-x: scroll;
+   
+}
+
+.logo{
+    width: 100px;
+    height: 60px;
+}
